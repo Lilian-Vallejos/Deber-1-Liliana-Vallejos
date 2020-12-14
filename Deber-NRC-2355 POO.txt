@@ -2,4 +2,24 @@ Programación Orientada a Objetos
 Definición
 Para poder programar en un lenguaje de POO hay que tener claro una serie
 de conceptos fundamentales como son Objeto, Clase, Herencia, Objeto, Método,
-Evento, Atributos y propiedades. 
+Evento, Atributos y propiedades.
+
+Objeto:En el paradigma de programación orientada a objetos, son programas
+que tienen un estado y un comportamiento, conteniendo datos almacenados y 
+tareas realizables durante su ejecución. 
+
+Clase: Las clases son un pilar fundamental de la POO y representan un conjunto
+devariables y métodos para operar con datos. 
+
+Herencia: La herencia facilita la creación de objetos a partir de otros
+ya existentes o hace que una subclase obtenga el comportamiento de su clase
+principal o su superclase.
+
+Método: es una subrutina que puede pertenecer a una clase u objeto, y son una
+serie de sentencias para llevar a cabo una acción.
+
+Atributos:Son paradigmas que utilizan objetos en sus interacciones para diseñar,
+aplicaciones y programas informáticos de gran tamaño. Está basada en varias técnicas,
+incluyendo herencia, cohesión, abstracción, polimorfismo, acoplamiento y encapsulamiento.
+Su uso se popularizó a principios de la década de 1990. 
+ 
