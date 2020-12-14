@@ -1,0 +1,5 @@
+Programación Orientada a Objetos
+Definición
+Para poder programar en un lenguaje de POO hay que tener claro una serie
+de conceptos fundamentales como son Objeto, Clase, Herencia, Objeto, Método,
+Evento, Atributos y propiedades. 
